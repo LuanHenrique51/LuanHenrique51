@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-henrique-64261b272/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirito_dr4gon/)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@LuanHenrique36)
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanHenrique51&show_icons=true&theme=dracula)
 
