@@ -18,7 +18,8 @@
   <img align="center" alt= "c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt= "php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt= "MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt= "flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  
+  <img align="center" alt= "Cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8"/>
 </div><br>
 
 Faço curso técnico em Desenvolvimento de Sistemas na instituição Etec Dra. Ruth Cardoso. Atualmente no último módulo (3º módulo).
