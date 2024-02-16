@@ -23,6 +23,8 @@
   <img align="center" alt= "Cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8"/>
 </div><br>
 
+![Snake animation](https://githun.com/LuanHenrique51/LuanHenrique51/blob/output/github-contribution-grid-snake-svg)
+
 Faço curso técnico em Desenvolvimento de Sistemas na instituição Etec Dra. Ruth Cardoso. Atualmente no último módulo (3º módulo).
 
 
