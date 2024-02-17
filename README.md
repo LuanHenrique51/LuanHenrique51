@@ -19,7 +19,7 @@
     srcset="https://raw.githubusercontent.com/LuanHenrique51/snk/output/github-contribution-grid-snake.svg"/>
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com//snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Luan Henrique/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
