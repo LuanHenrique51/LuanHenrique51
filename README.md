@@ -23,7 +23,7 @@
   />
 </picture>
 
-[![gif](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.gif)]
+
 
 
 ### Tecnologias que utilizo no meu cotidiano:
