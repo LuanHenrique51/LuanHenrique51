@@ -11,7 +11,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanHenrique51&layout=donut)](https://github.com/LuanHenrique51/github-readme-stats)
 
   
-![snake gif](https://github.com/LuanHenrique51/LuanHenrique51/blob/output/github-contribution-grid-snake.gif)
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.svg) image.
 
 ### Tecnologias que utilizo no meu cotidiano:
 <div style="display: inline_block"><br/>
