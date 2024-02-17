@@ -25,7 +25,8 @@
   />
 </picture>
 
-Generate a [gif](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.svg) image.
+[gif](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.gif) 
+[svg](https://github.com/LuanHenrique51/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### Tecnologias que utilizo no meu cotidiano:
 <div style="display: inline_block"><br/>
