@@ -40,7 +40,13 @@
 </div><br>
 
 Faço curso técnico em Desenvolvimento de Sistemas na instituição Etec Dra. Ruth Cardoso. Atualmente no último módulo (3º módulo).
-
+<br>
+<br>
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanHenrique51}/count.svg" /></p> 
+<br>
+</div>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1020&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!!!" alt="Typing SVG" /></a>
 </br>
