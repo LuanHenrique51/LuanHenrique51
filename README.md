@@ -38,13 +38,12 @@
   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt= "Cordova" src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8"/></br>
 </div><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1020&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!!!" alt="Typing SVG" /></a>
-</br>
-
-
 
 Faço curso técnico em Desenvolvimento de Sistemas na instituição Etec Dra. Ruth Cardoso. Atualmente no último módulo (3º módulo).
 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1020&color=B0C4DE&background=1BFF3000&random=false&width=435&lines=Obrigado+pela+aten%C3%A7%C3%A3o+!!!" alt="Typing SVG" /></a>
+</br>
 
 
 
