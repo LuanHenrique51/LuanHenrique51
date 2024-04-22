@@ -10,21 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanHenrique51&layout=donut)](https://github.com/LuanHenrique51/github-readme-stats)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LuanHenrique51/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LuanHenrique51/snk/output/github-contribution-grid-snake.svg"/>
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/LuanHenrique51/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-
 
 ### Tecnologias que utilizo no meu cotidiano:
 <div style="display: inline_block; align: center;"><br/>
